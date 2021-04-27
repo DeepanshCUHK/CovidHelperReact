@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+th {
+
+  position: sticky;
+  top: 0; 
+}
 
 .App-logo {
   height: 40vmin;
