@@ -9,7 +9,7 @@ function TablesBeds({data}) {
             <th>Name</th>
             <th>Location</th>
             <th>Phone Number</th>
-            <th>Last Verified Time</th>
+            <th>Additional Information</th>
           </tr>
         </thead>
         <tbody>
